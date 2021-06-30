@@ -10,3 +10,4 @@ This Repository cnotains code for the analyses reported in the following manuscr
 * `Notebooks/Supplementary_analyses.ipynb` - contains all of the code necessary to perform each supplementary analysis included in the supplementary materials.
 
 
+To run the analysis notebooks, all data must first be unzipped from the All_data.zip file.
